@@ -1,16 +1,23 @@
-# Hola Soy Juan Camilo Berrio
-
 ## ¿ Quién soy ?
 
 - Ingeniero de sistemas y telecomunicaciones 💻
-- Estudiante diplomado de inglés 📚
+- Actualmente soy desarrollador fullstack en Transfiriendo S.A y Pragmatic Ingeniería.
 - Apasionado por las tecnologías ⚡
 - +2 Años de experiencia en diferentes tecnologias y lenguajes 💥
+
+## Skills
+- React JS  - TypeScript
+- Angular   - Webpack
+- NodeJs    - Git
+- MongoDb   - Integración continúa
+- Sql       - Scrum
+
 
 ## Echále un vistazo a algunos proyectos que he realizado en mi tiempo libre
 
 ### Proyecto con React.js con hooks y consumo de api GIPHY
 - https://camiloberrio11.github.io/gif-app/
+
 ### Proyecto de mosaico de mi mascota 
 -
 
