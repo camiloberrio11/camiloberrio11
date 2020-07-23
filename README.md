@@ -6,19 +6,19 @@
 - +2 Años de experiencia en diferentes tecnologias y lenguajes 💥
 
 ## Skills
-- React JS  - TypeScript
-- Angular   - Webpack
-- NodeJs    - Git
-- MongoDb   - Integración continúa
-- Sql       - Scrum
+const languageBackend = ['Nodejs', 'Java', 'C#', 'Python']
+const technologiesFrontEnd = ['Css', 'Sass', 'Angular', 'React', 'Vue']
+const dbs = [{Sql: ['PostgreSql', 'SqlServer', 'Mysql']}, {NoSql: ['MongoDb', 'Cassandra']]
+const infrastructure = ['Azure']
+const othersSkills = ['Git', 'Webpack', 'Ngrx', 'Rxjs', 'Npm', 'Typescript']
 
 
 ## Echále un vistazo a algunos proyectos que he realizado en mi tiempo libre
 
-### Proyecto con React.js con hooks y consumo de api GIPHY
+### Proyecto con React.js con hooks y consumo de api GIPHY 🧛‍
 - https://camiloberrio11.github.io/gif-app/
 
-### Proyecto de mosaico de mi mascota 
+### Proyecto de mosaico de mi mascota (Bulldog fránces) 🐶
 -
 
 
