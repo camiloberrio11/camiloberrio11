@@ -6,11 +6,11 @@
 - +2 Años de experiencia en diferentes tecnologias y lenguajes 💥
 
 ## Skills
-const languageBackend = ['Nodejs', 'Java', 'C#', 'Python']
-const technologiesFrontEnd = ['Css', 'Sass', 'Angular', 'React', 'Vue']
-const dbs = [{Sql: ['PostgreSql', 'SqlServer', 'Mysql']}, {NoSql: ['MongoDb', 'Cassandra']]
-const infrastructure = ['Azure']
-const othersSkills = ['Git', 'Webpack', 'Ngrx', 'Rxjs', 'Npm', 'Typescript']
+- const languageBackend = ['Nodejs', 'Java', 'C#', 'Python']
+- const technologiesFrontEnd = ['Css', 'Sass', 'Angular', 'React', 'Vue']
+- const dbs = [{Sql: ['PostgreSql', 'SqlServer', 'Mysql']}, {NoSql: ['MongoDb', 'Cassandra']]
+- const infrastructure = ['Azure']
+- const othersSkills = ['Git', 'Webpack', 'Ngrx', 'Rxjs', 'Npm', 'Typescript']
 
 
 ## Echále un vistazo a algunos proyectos que he realizado en mi tiempo libre
