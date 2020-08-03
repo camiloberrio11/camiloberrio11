@@ -18,8 +18,8 @@
 ### Proyecto con React.js con hooks y consumo de api GIPHY 🧛‍
 - https://camiloberrio11.github.io/gif-app/
 
-### Proyecto de mosaico de mi mascota (Bulldog fránces) 🐶
--
+### Proyecto de valoración de llamadas, creado con Angular 8+
+- https://camiloberrio11.github.io/portal-calificacion-llamadas/
 
 
 
