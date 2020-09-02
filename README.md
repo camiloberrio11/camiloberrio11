@@ -21,6 +21,9 @@
 ### Proyecto de valoración de llamadas, creado con Angular 8+
 - https://camiloberrio11.github.io/portal-calificacion-llamadas/
 
+### Api rest de ruleta (Documentación profunda en la api) ♥️♠️
+- https://github.com/camiloberrio11/api-roulette-royal
+
 
 
 <!--
